@@ -16,11 +16,6 @@
 - 💬 **Expertise:** You can ask me about **Webdevelopment and Minecraft Plugins**.
 - 🚀 **Hobby:** Coding Efficient Tools, Websites, and Plugins
 
-### 🛠️ My Coding Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,gradle,maven,vscode,unity&theme=dark" />
-  <br>
-</p>
 
 ---
 
