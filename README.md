@@ -12,8 +12,8 @@
 </div>
 
 ### 🔭 About Me
-- 🌱 **Focus:** Im currently learning how to code in Python &  Java
-- 💬 **Expertise:** You can ask me about **Minecraft: Java Servers** und **Plugin-Development**.
+- 🪄 **Focus:** Im currently learning how to code in Python &  Java
+- 💬 **Expertise:** You can ask me about **Webdevelopment and Minecraft Plugins**.
 - 🚀 **Hobby:** Coding Efficient Tools, Websites, and Plugins
 
 ### 🛠️ My Coding Languages
