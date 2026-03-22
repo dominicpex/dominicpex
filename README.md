@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://github.com/Hoelzchen-yt/Hoelzchen/blob/7c69f8b8c221a6aaeb92de7ded503e09dd51c604/affafaf.png"/>
  
+---
 
   ### 🪄 Developer & Designer
   
