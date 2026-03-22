@@ -2,7 +2,7 @@
   <img src="https://github.com/Hoelzchen-yt/Hoelzchen/blob/7c69f8b8c221a6aaeb92de7ded503e09dd51c604/affafaf.png"/>
  
 
-  ### 🪄 Webdeveloper and Coding enthusiast
+  ### 🪄 Developer & Designer
   
   [![Website](https://img.shields.io/badge/Website-hzcoding.de-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](http://hzcoding.de)
   [![Discord](https://img.shields.io/badge/Discord-hoelzchen.v3-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1485240502268858538)
@@ -11,7 +11,7 @@
   ---
 </div>
 
-### 🔭 About Me
+### 💫 About Me:
 - 🪄 **Focus:** Im currently learning how to code in Python &  Java
 - 💬 **Expertise:** You can ask me about **Webdevelopment and Minecraft Plugins**.
 - 🚀 **Hobby:** Coding Efficient Tools, Websites, and Plugins
